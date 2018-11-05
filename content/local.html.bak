@@ -1,0 +1,110 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>2016 International Doctoral Forum</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="../style/index.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div id="wrapper">
+            <div id="top">
+
+            </div>
+            <div id="content">
+                <div id="left">
+                    <div id="menu">
+                        <br/>
+                        <!-- <span id="navagition"><b>NAVIGATION</b></span>
+                        <hr> -->
+                        <ul>
+                            <li class="cli"><a href="../index.html">Home</a></li>
+                            <li class="cli"><a href="cfp.html">Call for Papers</a></li>
+                            <li class="cli"><a href="dates.html">Important Dates</a></li>
+                            <li class="cli"><a href="sponsors.html">Sponsors</a></li>
+                            <li class="cli"><a href="orgcommittee.html">Organization</a></li>  
+                            <li class="cli"><a href="submission.html">Paper Submission</a></li>
+                            <li class="cli"><a href="registration.html">Registration</a></li>
+                            <li class="cli"><a href="program.html">Technical Program</a></li>
+                            <li class="cli"><a href="keynote.html">Invited Talks</a></li>
+                            <li class="cli"><a href="bestpaper.html">Best Paper</a></li>
+                            <li class="cli"><a href="venue.html">Venue & Hotel</a></li>
+                            <li class="cli"><a href="local.html">Local Information</a></li>
+                            <li class="cli"><a href="http://www.cuhk.edu.hk/">About CUHK</a></li>
+                            <li class="cli"><a href="past.html">Past Forums</a></li>
+                            <li class="cli"><a href="contact.html">Contacts</a></li>
+                        </ul>
+                        <div class="logo">
+                       		 <a href="http://www.tsinghua.edu.cn/" target="_blank">
+                                <img src='../images/tinghua-logo.png' width="130px"></img>
+                            </a>
+                        </div><br>
+                        <div class="logo">
+                       		 <a href="http://www.cuhk.edu.hk//" target="_blank">
+                                <img src='../images/cuhk-logo.png' width="150px"></img>
+                            </a>
+                        </div><br>
+                        <div class="logo">
+                        	<a href="http://www.nwpu.edu.cn/" target="_blank">
+                                <img src='../images/nwpulogo.png' width="130px"></img>
+                            </a>
+                        </div><br>
+                        <!-- div class="logo">
+                       		 <a href="http://www.nwpu-aslp.org/" target="_blank">
+                                <img src='images/logo.gif' width="160px"></img>
+                            </a>
+                        </div -->
+
+                    </div>
+                </div>
+                <div id="right">
+                    <div id="sss">
+                    </div>
+                    <div id="file">
+                      <h2>Local Information</h2>
+						<hr>
+						<h3> Touring Around </h3>
+						<a href="http://www.discoverhongkong.com/china/plan-your-trip/index.jsp" target=_blank ><b>Plan Your Trip </b></a><br>
+						<a href="http://www.discoverhongkong.com/cn-index.jsp" target=_blank ><b>Hong Kong Tourism Board </b></a><br>
+						<a href="https://www.hongkongdisneyland.com/" target=_blank><b> Hong Kong Disneyland </b></a><br>
+						<a href="http://www.smarttravelasia.com/hongkong.htm" target=_blank><b> Hong Kong Destination Guide </b></a><br>
+                      <!--ul>
+					  <hr>                      
+                      <h3>Beijing</h3><hr size="1" style="border:1px dashed #cccccc;">                      	
+                      <p  class="invitf"> Beijing, formerly Peking, is the capital of the People's Republic of China and one of the most populous cities in the world. Its population in 2013 was 21,150,000. The city proper is the 13th largest in the world. The metropolis, located in northern China, is governed as a direct-controlled municipality under the national government with 16 urban, suburban, and rural districts. Beijing Municipality is surrounded by Hebei Province with the exception of neighboring Tianjin Municipality to the southeast; together the three divisions form the Jingjinji metropolitan region and the national capital region of China. Beijing has seven UNESCO World Heritage Sites – the Forbidden City, Temple of Heaven, Summer Palace, Ming Tombs, Zhoukoudian, Great Wall, and the Grand Canal.Beijing hosted the 2008 Summer Olympics and was chosen to host the 2022 Winter Olympics, which will make it the first and only city to ever host both events. </p>
+                      
+                      <p  class="invitf"> <b>Forbidden City</b> <br> The Forbidden City was the Chinese imperial palace from the Ming dynasty to the end of the Qing dynasty—the years 1420 to 1912. It is located in the center of Beijing, China, and now houses the Palace Museum. It served as the home of emperors and their households as well as the ceremonial and political centre of Chinese government for almost 500 years. </p>
+                      <img src='../images/gugong.jpg' width="350px"></img>
+
+                      <p  class="invitf"> <b>Temple of Heaven</b><br> The Temple of Heaven, literally the Altar of Heaven, is a medieval complex of religious buildings situated in the southeastern part of central Beijing. The complex was visited by the Emperors of the Ming and Qing dynasties for annual ceremonies of prayer to Heaven for good harvest. It has been regarded as a Daoist temple, although Chinese heaven worship, especially by the reigning monarch of the day, predates Daoism. </p>
+                      <img src='../images/tiantan.jpg' width="350px"></img>
+                       
+                      <p  class="invitf"> <b>Summer Palace</b><br> The Summer Palace, known as Yiheyuan in Chinese, is a vast ensemble of lakes, gardens and palaces in Beijing, China. It serves as a popular tourist destination and recreational park. Mainly dominated by Longevity Hill and Kunming Lake, it covers an expanse of 2.9 square kilometres (1.1 sq mi), three-quarters of which is water.</p>
+                      <img src='../images/yiheyuan.jpg' width="350px"></img>
+
+                      <p  class="invitf"> <b>Great Wall of China</b><br> The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China to protect the Chinese states and empires against the raids and invasions of the various nomadic groups of the Eurasian Steppe. Several walls were being built as early as the 7th century bce; these, later joined together and made bigger and stronger, are now collectively referred to as the Great Wall. Especially famous is the wall built 220–206 bce by Qin Shi Huang, the first Emperor of China. Little of that wall remains. Since then, the Great Wall has on and off been rebuilt, maintained, and enhanced; the majority of the existing wall is from the Ming Dynasty.</p>
+                      <img src='../images/changcheng.jpg' width="350px"></img>
+
+                      <p  class="invitf"> <b>Peking opera</b><br> Peking opera or Beijing opera is a form of traditional Chinese theatre which combines music, vocal performance, mime, dance, and acrobatics. It arose in the late 18th century and became fully developed and recognized by the mid-19th century. The form was extremely popular in the Qing dynasty court and has come to be regarded as one of the cultural treasures of China. Major performance troupes are based in Beijing and Tianjin in the north, and Shanghai in the south. The art form is also preserved in Taiwan, where it is known as Guoju. It has also spread to other countries such as the United States and Japan.</p>
+                      <img src='../images/jingju.jpg' width="350px"></img>
+                      
+                      <p  class="invitf"> <b>Beijing cuisine</b><br> </p>
+                      <p  class="invitf"> <b>Peking duck</b><br> Peking Duck is a famous duck dish from Beijing that has been prepared since the imperial era. The meat is prized for its thin, crisp skin, with authentic versions of the dish serving mostly the skin and little meat, sliced in front of the diners by the cook. Ducks bred specially for the dish are slaughtered after 65 days and seasoned before being roasted in a closed or hung oven. The meat is eaten with scallion, cucumber and sweet bean sauce with pancakes rolled around the fillings. Sometimes pickled radish is also inside, and other sauces (like hoisin sauce) can be used. In 2012, The Huffington Post ranked Peking duck 1st in list of "10 Foods Around The World To Try Before You Die".</p>
+                      <img src='../images/kaoya.jpg' width="350px"></img>
+                      
+                      <p  class="invitf"> <b>Zhajiangmian</b><br> Zhajiangmian is a Chinese dish consisting of thick wheat noodles topped with a mixture of ground pork stir-fried with zhajiang, which is salty fermented soybean paste.</p>
+                      <img src='../images/zhajiangmian.jpg' width="350px"></img>
+                      
+                      <p  class="invitf"> <b>Fuling jiabing</b><br> Fuling jiabing, also known Fu Ling Bing or Tuckahoe Pie, is a traditional snack food of Beijing and is an integral part of the city's culture. It is a pancake-like snack made from flour, sugar, and fuling (Poria), rolled around nuts, honey, and other ingredients. The flour can be mixed with fuling (Poria), a kind of Chinese medicine from Yunnan province that is used to rid the spleen of dampness. Different ingredients are rolled into the pancakes making a variety of Fuling jiabing. The pancakes can be carved into beautiful patterns, too.</p>
+                      <img src='../images/fulingbing.jpg' width="350px"></img>                      
+                      </ul-->
+                    </div>
+                </div>
+            </div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        </div>
+        <div id="footer">
+                        <span>&copy Designed by CUHK</span>
+        </div>
+    </body>
+</html>

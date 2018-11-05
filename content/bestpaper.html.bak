@@ -1,0 +1,98 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>2016 International Doctoral Forum</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="../style/index.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div id="wrapper">
+            <div id="top">
+
+            </div>
+            <div id="content">
+                <div id="left">
+                    <div id="menu">
+                        <br/>
+                        <!-- <span id="navagition"><b>NAVIGATION</b></span>
+                        <hr> -->
+                        <ul>
+                            <li class="cli"><a href="../index.html">Home</a></li>
+                            <li class="cli"><a href="cfp.html">Call for Papers</a></li>
+                            <li class="cli"><a href="dates.html">Important Dates</a></li>
+                            <li class="cli"><a href="sponsors.html">Sponsors</a></li>
+                            <li class="cli"><a href="orgcommittee.html">Organization</a></li>  
+                            <li class="cli"><a href="submission.html">Paper Submission</a></li>
+                            <li class="cli"><a href="registration.html">Registration</a></li>
+                            <li class="cli"><a href="program.html">Technical Program</a></li>
+                            <li class="cli"><a href="keynote.html">Invited Talks</a></li>
+                            <li class="cli"><a href="bestpaper.html">Best Paper</a></li>
+                            <li class="cli"><a href="venue.html">Venue & Hotel</a></li>
+                            <li class="cli"><a href="local.html">Local Information</a></li>
+                            <li class="cli"><a href="http://www.cuhk.edu.hk/">About CUHK</a></li>
+                            <li class="cli"><a href="past.html">Past Forums</a></li>
+                            <li class="cli"><a href="contact.html">Contacts</a></li>
+                        </ul>
+                        <div class="logo">
+                       		 <a href="http://www.tsinghua.edu.cn/" target="_blank">
+                                <img src='../images/tinghua-logo.png' width="130px"></img>
+                            </a>
+                        </div><br>
+                        <div class="logo">
+                       		 <a href="http://www.cuhk.edu.hk//" target="_blank">
+                                <img src='../images/cuhk-logo.png' width="150px"></img>
+                            </a>
+                        </div><br>
+                        <div class="logo">
+                        	<a href="http://www.nwpu.edu.cn/" target="_blank">
+                                <img src='../images/nwpulogo.png' width="130px"></img>
+                            </a>
+                        </div><br>
+                    </div>
+                </div>
+                <div id="right">
+                    <div id="sss">
+                    </div>
+                    <div id="file">
+							<h2>Best Paper</h2>
+							<hr>
+							<p  class="invitf"> In International Doctoral Forum 2016, 63 papers were accepted.  These papers were submitted by students from Tsinghua University, Northwestern Polytechnical University, Shenzhen Institutes of Advanced Technology of Chinese Academy of Sciences and the Chinese University of Hong Kong.  More than 80 professors and students participated in the forum, exchanging novel ideas and building new connections.  The authors of accepted papers gave oral presentations of their work in different sessions with specific topics.  Based on peer review of the authors, 10 papers were elected as best papers, which are listed as follow: </p>
+							<ul>
+							<li>Changhua Pei, Youjian Zhao, Guo Chen, Ruming Tang, Yuan Meng, Minghua Ma, Ken Ling, Dan Pei, "WiFi Can Be the Weakest Link of Round Trip Network Latency in the Wild"</li>
+							<li>Yang Li, Hao Wu, Tian Pan, Huichen Dai, Jianyuan Lu, Bin Liu, "CASE: Cache-assisted Stretchable Estimator for High Speed Per-flow Measurement"</li>
+							<li>Piji Li, Wai Lam, "Cascaded Neural Attention Based Unsupervised Salience Estimation for Compressive Summarization"</li>
+							<li>Qi Dou, Hao Chen, Yueming Jin, Lequan Yu, Pheng-Ann Heng, "3D Deeply Supervised Network for Automatic Liver Segmentation from CT Volumes"</li>
+							<li>Qingsen Yan, Yanning Zhang, Yu Zhu, Jinqiu Sun, Haisen Li, "Ghost-free High Dynamic Range Imaging with Sparse Representation"</li>
+							<li>Hongjie Chen, Cheung-Chi Leung, Lei Xie, Bin Ma, "Unsupervised Bottleneck Features for Low-Resource Query-by-example Spoken Term Detection"</li>
+							<li>Shenglin Zhao, Irwin King, Michael R. Lyu, "Geo Pairwise Ranking Matrix Factorization Model for Point-of-interest Recommendation"</li>
+							<li>Yisen Wang, Qingtao Tang, Shu-Tao Xia, Jia Wu, Xingquan Zhu, "Bernoulli Random Forests: Closing the Gap between Theoretical Consistency and Empirical Soundness"</li>
+							<li>Jiaxin Mao, Yiqun Liu, Ke Zhou, Jian-Yun Nie, Jingtao Song, Min Zhang, Shaoping Ma, Jiashen Sun, Hengliang Luo, "When does Relevance Mean Usefulness and User Satisfaction in Web Search"</li>
+							<li>Hao-Zhi Huang, Kun Xu, Ralph R. Martin, Fei-Yue Huang, Shi-Min Hu, "Efficient, Edge-Aware, Combined Color Quantization and Dithering"</li>
+							</ul>
+                          <br>
+						  <img src="../images/best_1.jpg" width="750px"/><br>
+						  <img src="../images/best_2.jpg" width="750px"/><br>
+						  <img src="../images/best_3.jpg" width="750px"/><br>
+						  <img src="../images/best_4.jpg" width="750px"/><br>
+						  <img src="../images/best_5.jpg" width="750px"/><br>
+						  <img src="../images/best_6.jpg" width="750px"/><br>
+						  <img src="../images/best_7.jpg" width="750px"/><br>
+						  <img src="../images/best_8.jpg" width="750px"/><br>
+						  <img src="../images/best_9.jpg" width="750px"/><br>
+						  
+						  <!--ul> 
+                          	<li> Distributed big data services </li>
+                          
+                          <img src="../images/best.png" width="750px"/>
+						  </ul-->
+                    </div>
+                </div>
+            </div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        </div>
+        <div id="footer">
+                        <span>&copy Designed by CUHK</span>
+        </div>
+    </body>
+</html>
