@@ -23,7 +23,7 @@
                             <li class="cli"><a href="cfp.html">Call for Papers</a></li>
                             <li class="cli"><a href="dates.html">Important Dates</a></li>
                             <li class="cli"><a href="sponsors.html">Sponsors</a></li>
-                            <li class="cli"><a href="orgcommittee.html">Organization</a></li>  
+                            <li class="cli"><a href="orgcommittee.html">Organization</a></li>
                             <li class="cli"><a href="submission.html">Paper Submission</a></li>
                             <li class="cli"><a href="registration.html">Registration</a></li>
                             <li class="cli"><a href="program.html">Technical Program</a></li>
@@ -55,7 +55,7 @@
                                 <img src='images/logo.gif' width="160px"></img>
                             </a>
                         </div -->
-                       
+
                     </div>
                 </div>
                 <div id="right">
@@ -66,14 +66,14 @@
                         <hr>
                         <br/>
 						<!--p class="invitf"> Coming soon...</p-->
-						
+
 						<h3>Conference Venue</h3><hr size="1" style="border:1px dashed #cccccc;">
                         <p class="invitf">Lecture Theater, William M. W. Mong, Engineering Building (ERB)<br>
                         the Chinese University of Hong Kong<br></p>
 						<img src="../images/erb_map.jpg" width=700px;/><br>
                         <img src="../images/cuhk_erb.jpg" width=600px;/>
-						
-                        
+
+
                         <h3>Conference Hotel:</h3><hr size="1" style="border:1px dashed #cccccc;">
                         <p class="invitf">Hyatt Regency Hong Kong Sha Tin<br>
 						18 Chak Cheung Street, Sha Tin, New Territories Hong Kong,  China <br>
@@ -82,10 +82,10 @@
                         <p class="invitf">Yali Guest House<br>
                         the Chinese University of Hong Kong<br>
                         Tel: +852 2603 6411<br></p>
-                       
-                        
+
+
                     </div>
-           
+
                 </div>
             </div><br><br><br>
         </div>

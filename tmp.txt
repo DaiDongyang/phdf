@@ -1,0 +1,51 @@
+Paper Submission
+
+Author's Kit
+
+Please download the following sample papers:
+•	tex sample paper
+•	word sample paper
+•	sample file in pdf format
+•	All of above in .zip file format paper_format.zip
+Submission
+
+Student authors are invited to submit research papers on original work (including recently published work) describing current research and novel ideas in Multimedia, Web Mining, Networking and Big Data. Papers whose contributions are supported by experimental evaluations are strongly encouraged.
+Copyright of the submitted work is held by the author/owner.
+Authors should submit a four-page manuscript in double-column IEEE format including authors' names, affiliations, and a short abstract. Only electronic submission written in English will be accepted. Please download the paper format and sample files from the Author's Kit above.
+Submissions can be made by sending email enclosed with manuscript to phdforum2018@126.com. The title of submission email is expected to conform with the format of
+"[PaperSubmission][FIRST_AUTHOR_NAME_ABBR]-PAPERTITLE"
+(for example [PaperSubmission][X.Zhou]-An Ensemble DNNs for Object Tracking). The content of email must explicitly designate the topic-subtopic(multiple choices are allowed if any) of this submission, your personal information (name/school/supervisors/contact et al) and your submitted manuscript's information: brand-new or published (please provide details). For each accepted paper, we assumed that only one of the authers would attend the forum. The organizing committee provides the representative with free registraion.
+Papers are solicited in all areas of network and multimedia computing, including, but not limited to:
+Multimedia:
+•	Audio, speech and natural language processing
+•	Signal Processing and machine learning
+•	Computer vision and image processing
+•	Multimedia content analysis and indexing
+•	Multimedia authoring and retrieval
+•	Multimedia coding and trans-coding
+•	Multi-modal human-computer interaction and integration
+•	Multi-modal biometric authorization
+•	Multimedia security and rights management
+•	Human-computer interaction
+Web Mining:
+•	Web structural, content, and usage mining
+•	Web information clustering and classification
+•	Web page search, crawling, and ranking techniques
+•	Link analysis
+•	Web metrics and statistics
+•	Social Computing
+Networking:
+•	Network architectures and algorithms
+•	Cyber security
+•	Mobile networking, multimedia networking, and social networking
+•	Next generation networks
+•	Datacenter networking
+•	Green (energy-efficient) communication and networking
+Big Data & AI:
+•	Big data curation and sharing
+•	Efficient big data storage and processing
+•	Big data analytics in special domains
+•	AI & Machine learning
+•	Structuring and visualization of big data
+•	Security enhancement for big data
+ 
